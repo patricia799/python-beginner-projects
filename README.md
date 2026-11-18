@@ -27,3 +27,23 @@ I'm an aspiring technology professional interested in artificial intelligence, d
 I'm passionate about learning, experimenting with technology and developing practical skills.
 
 Learning, building and growing one project at a time. 🚀
+
+## My Projects
+
+### 1. Financial Calculator
+
+A menu-driven Python program that performs:
+
+- Profit calculations
+- Tax calculations
+- Discount calculations
+- Loan payment calculations
+
+*Concepts used:*
+- Functions
+- Parameters and return values
+- Conditional statements
+- While loops
+- User input
+- Mathematical operations
+- F-strings
